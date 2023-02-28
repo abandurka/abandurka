@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out [my web site](https://abandurka.github.io/) where you can find my articles or notes about dev world. 
+
 <!--
 **abandurka/abandurka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
